@@ -188,24 +188,13 @@
 		}
 	},
 	
-	"P101": {
-		"_": "GND-Nummer",
-		"field": "007K",
-		},
-		"qualifiers": {
-			"P299": "a",
-			"P47": "v",
-			"P150": "0"
-		}
-	},
-
 	"P245": {
 		"_": "Alte Normnummer",
 		"field": "007N",
 		"qualifiers": {
 			"P299": "a",
-			"P47": "v",
 			"P150": "0"
+			"P47": "v",
 		}
 	},
 	
